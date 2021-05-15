@@ -1,10 +1,10 @@
 # Real Time Chat Application
-Tech stack: React, EXPRESS, NODE, SOCKET.IO
+## Tech stack: React, EXPRESS, NODE, SOCKET.IO
 
-Developed a real time chat application where the users can create their Username & start chatting with the other people in the chat room.
+Its a real time chat application where the users can register with their Username & start chatting with the other people in the chat room. They can also create their unique chat rooms having a key which is required to get entry in a particular room.
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
